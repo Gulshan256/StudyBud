@@ -7,8 +7,8 @@
 ### Cloning the repository
 
 --> Clone the repository using the command below :
-git clone https://github.com/Gulshan256/StudyBud.git
 ```bash
+git clone https://github.com/Gulshan256/StudyBud.git
 
 
 ```
