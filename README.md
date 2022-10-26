@@ -65,7 +65,7 @@ python manage.py runserver
 <p align="center">
   Feed Home
 </p>
-<img src="C:\Users\kumar\Desktop\django_project\StudyBud\static\images\home.jpeg">
+<img src="https://github.com/Gulshan256/StudyBud/blob/master/static/images/home.jpeg">
 </td> 
 <td width="50%">
 <br>
